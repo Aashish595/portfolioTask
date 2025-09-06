@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A modern e-commerce platform built with React and Node.js featuring real-time inventory management and secure payments.",
+      "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+      "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["Vue.js", "Firebase", "Vuetify"],
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "Beautiful weather dashboard with interactive maps, detailed forecasts, and location-based weather alerts.",
+      "image": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["JavaScript", "API Integration", "Chart.js"],
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "Responsive portfolio website showcasing creative projects with smooth animations and modern design principles.",
+      "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["React", "Tailwind CSS", "Framer Motion"],
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 5,
+      "title": "Social Media Dashboard",
+      "description": "Comprehensive social media management dashboard with analytics, scheduling, and multi-platform integration.",
+      "image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["React", "TypeScript", "GraphQL", "D3.js"],
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 6,
+      "title": "Learning Management System",
+      "description": "Full-featured LMS with course creation, student progress tracking, and interactive learning modules.",
+      "image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["Next.js", "PostgreSQL", "Prisma", "NextAuth"],
+      "demoUrl": "#",
+      "githubUrl": "#"
+    }
+  ]
+}
