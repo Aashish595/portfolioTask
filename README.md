@@ -18,7 +18,3 @@ This project showcases projects, includes a contact form, animations, and respon
 - **Icons:** React Icons
 - **Data:** Hardcoded JSON (`public/projects.json`)
 
----
-
-## 📂 Project Structure
-
